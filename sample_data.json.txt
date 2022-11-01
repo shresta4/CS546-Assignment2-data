@@ -1,0 +1,1 @@
+{"tokens": ["It", "was", "created", "from", "part", "of", "the", "province", "of", "Normandie", "."], "annotations": [{"mention": "Normandie", "mention_id": "90497-0", "start": 9, "end": 10, "labels": ["Country108544813", "Region108630039", "State108654360", "Region108630985"]}]}
